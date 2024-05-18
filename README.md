@@ -18,6 +18,6 @@ Usage:
 4. View the console output to check if the exploit was successful.
 5. Once finished, stop the Metasploit RPC service by running `msfrpcd --stop` in the command line.
 
-I have only scripted this in one month, so feel free to tell me any improvements I can make on my email id: nalawaderudra1@gmail.com
+I have only scripted this in half a week, so feel free to tell me any improvements I can make on my email id: nalawaderudra1@gmail.com
 
 For any collabs, reach out to me on email.
