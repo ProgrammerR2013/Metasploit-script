@@ -2,7 +2,7 @@
 EDUCATIONAL PURPOSES ONLY
 
 This script demonstrates the usage of the Metasploit framework's RPC API to interact with a Metasploit instance and perform penetration testing tasks.
-
+Basically, it connects to the metasploit RPC client, prints the exploits, lets you attach your payloads, change RHOST and RPORT, and then conduct your pentesting tasks easily.
 So the requirements for this project are:
 - Python .x
 - Metasploit framework
